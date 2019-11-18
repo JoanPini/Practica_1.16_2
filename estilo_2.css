@@ -1,0 +1,36 @@
+p.i{   
+ text-align: center;
+}
+p.b{
+    color: grey;
+}
+td{
+    padding: 10px;
+}
+table{
+    text-align: center;
+    margin-left: 20%;
+}
+p.c{
+color: grey;
+margin-left: 20%;
+}
+iframe{
+    width: 600px;;
+    height: 200px;
+    margin-left: 25%;
+}
+
+p.f{
+color: gray;
+text-align: right;
+}
+
+button{
+
+    margin-left: 70%;
+    width: 120px;
+    height: 60px;
+    background-color: orange;
+    color: white;
+}
